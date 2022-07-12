@@ -23,6 +23,14 @@
 
 [🛩 Crewbid2 iPad - Aviation](https://apps.apple.com/us/app/crewbid2/id1620490378)
 
+[🛩 QuikPay Online - Finance](https://apps.apple.com/in/app/quikpayonline/id1540743531)
+
+[🛩 SmartInvoice - Finance](https://apps.apple.com/us/app/abzer-smart-invoice/id1512008010)
+
+[🛩 Eduzer - Finance](https://apps.apple.com/us/app/eduzer/id1589962501)
+
+
+
 
 
 
