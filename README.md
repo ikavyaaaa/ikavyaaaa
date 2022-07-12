@@ -37,6 +37,24 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ikavyaaaa&theme=vue"/>
 </p>
 
+## 📟 GitHub Stats
+<p align="center">
+	<img width="48%" src="https://github-readme-stats.vercel.app/api?username=ikavyaaaa&show_icons=true&theme=vue" />
+	<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ikavyaaaa&theme=vue" />
+</p>
 
+### ✍️Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=vue)
+
+---
+[![](https://visitcount.itsvg.in/api?id=ikavyaaaa&icon=0&color=1)](https://visitcount.itsvg.in)
+
+  
+
+<div align="center">
+
+### Show some ❤️ by starring some of the repositories!
+
+</div>
 
 
