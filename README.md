@@ -6,3 +6,8 @@
 - 📫 How to reach me: ikavyakrishna@gmail.com
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I spend almost 3 to 4 hours in gym every day.
+
+## 🌐 Socials
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kavya-krishna) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/i_kavyaaa)
+
+
