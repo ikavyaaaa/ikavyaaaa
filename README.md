@@ -11,6 +11,18 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kavya-krishna-b77548160) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/i_kavyaaa)
 
 ## 💻 Tech Stack
-![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![SwiftUI](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
+![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+## 💻 Projects I have worked (iOS)
+
+[🛩 Crewbid Valet - Aviation](https://apps.apple.com/us/app/crewbid-valet/id1233677874)
+
+[🛩 Crewbid iPad - Aviation](https://apps.apple.com/us/app/crewbid/id563832596)
+
+[🛩 WbidMax iPad - Aviation](https://apps.apple.com/us/app/wbidmax/id892320623)
+
+[🛩 Crewbid2 iPad - Aviation](https://apps.apple.com/us/app/crewbid2/id1620490378)
+
+
 
 
