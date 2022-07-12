@@ -23,11 +23,11 @@
 
 [🛩 Crewbid2 iPad - Aviation](https://apps.apple.com/us/app/crewbid2/id1620490378)
 
-[🛩 QuikPay Online - Finance](https://apps.apple.com/in/app/quikpayonline/id1540743531)
+[🛒 QuikPay Online - Finance](https://apps.apple.com/in/app/quikpayonline/id1540743531)
 
-[🛩 SmartInvoice - Finance](https://apps.apple.com/us/app/abzer-smart-invoice/id1512008010)
+[🖥  SmartInvoice - Finance](https://apps.apple.com/us/app/abzer-smart-invoice/id1512008010)
 
-[🛩 Eduzer - Finance](https://apps.apple.com/us/app/eduzer/id1589962501)
+[📖 Eduzer - Finance](https://apps.apple.com/us/app/eduzer/id1589962501)
 
 ## 👨🏻‍💻 Laptop in use
 <img src="https://img.shields.io/badge/Apple-MacBook_Pro_2021-333333?style=for-the-badge&logo=apple&logoColor=white"/> 
