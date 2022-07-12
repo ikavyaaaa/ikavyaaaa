@@ -32,6 +32,11 @@
 ## 👨🏻‍💻 Laptop in use
 <img src="https://img.shields.io/badge/Apple-MacBook_Pro_2021-333333?style=for-the-badge&logo=apple&logoColor=white"/> 
 
+## 💳 Github Profile Summary Card
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ikavyaaaa&theme=vue"/>
+</p>
+
 
 
 
