@@ -13,7 +13,9 @@
 ## 💻 Tech Stack
 ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![SwiftUI](https://img.shields.io/badge/swiftui-%2300BCD4?style=for-the-badge&logo=swift&logoColor=white)
 ![SDK](https://img.shields.io/badge/sdk-%234285F4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Bluetooth](https://img.shields.io/badge/bluetooth-%230A84FF?style=for-the-badge&logo=bluetooth&logoColor=white)
+![Bluetooth](https://img.shields.io/badge/bluetooth-%230A84FF?style=for-the-badge&logo=bluetooth&logoColor=white) ![Map](https://img.shields.io/badge/map-%234CAF50?style=for-the-badge&logo=google-maps&logoColor=white)
+![Geo-fencing](https://img.shields.io/badge/geo--fencing-%23FF5722?style=for-the-badge&logo=mapbox&logoColor=white)
+
 
 
 ## 💻 Projects I have worked (iOS)
