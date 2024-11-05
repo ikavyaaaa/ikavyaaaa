@@ -11,7 +11,10 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kavya-krishna-b77548160) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/i_kavyaaa)
 
 ## 💻 Tech Stack
-![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![SwiftUI](https://img.shields.io/badge/swiftui-%2300BCD4?style=for-the-badge&logo=swift&logoColor=white)
+![SDK](https://img.shields.io/badge/sdk-%234285F4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Bluetooth](https://img.shields.io/badge/bluetooth-%230A84FF?style=for-the-badge&logo=bluetooth&logoColor=white)
+
 
 ## 💻 Projects I have worked (iOS)
 
