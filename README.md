@@ -24,6 +24,10 @@
 
 [🖥 MySmartGuardPlus - Visitor Management](https://apps.apple.com/in/app/mysmartguardplus/id1665817043)
 
+[🖥 ZLink Assistant - Device Management](https://apps.apple.com/in/app/zlink-assistant/id6444682611)
+
+[🖥 ZKBio ZLink- Device Management](https://apps.apple.com/in/app/zkbio-zlink/id1640267070)
+
 [🛩 Crewbid Valet - Aviation](https://apps.apple.com/us/app/crewbid-valet/id1233677874)
 
 [🛩 Crewbid iPad - Aviation](https://apps.apple.com/us/app/crewbid/id563832596)
