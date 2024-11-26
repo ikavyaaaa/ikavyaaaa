@@ -20,13 +20,13 @@
 
 ## 💻 Projects I have worked (iOS)
 
-[🖥 Cirrus Mobile - Employee Management](https://apps.apple.com/in/app/cirrus-mobile/id6523421292)
+[📱 Cirrus Mobile - Employee Management](https://apps.apple.com/in/app/cirrus-mobile/id6523421292)
 
-[🖥 MySmartGuardPlus - Visitor Management](https://apps.apple.com/in/app/mysmartguardplus/id1665817043)
+[💻 MySmartGuardPlus - Visitor Management](https://apps.apple.com/in/app/mysmartguardplus/id1665817043)
 
-[🖥 ZLink Assistant - Device Management](https://apps.apple.com/in/app/zlink-assistant/id6444682611)
+[🛠 ZLink Assistant - Device Management](https://apps.apple.com/in/app/zlink-assistant/id6444682611)
 
-[🖥 ZKBio ZLink- Device Management](https://apps.apple.com/in/app/zkbio-zlink/id1640267070)
+[🌐 ZKBio ZLink- Device Management](https://apps.apple.com/in/app/zkbio-zlink/id1640267070)
 
 [🛩 Crewbid Valet - Aviation](https://apps.apple.com/us/app/crewbid-valet/id1233677874)
 
