@@ -20,7 +20,7 @@
 
 ## 💻 Projects I have worked (iOS)
 
-[🖥 Cirrus Mobile - Employee Management]([https://apps.apple.com/in/app/mysmartguardplus/id1665817043](https://apps.apple.com/in/app/cirrus-mobile/id6523421292))
+[🖥 Cirrus Mobile - Employee Management](https://apps.apple.com/in/app/cirrus-mobile/id6523421292)
 
 [🖥 MySmartGuardPlus - Visitor Management](https://apps.apple.com/in/app/mysmartguardplus/id1665817043)
 
