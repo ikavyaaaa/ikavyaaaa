@@ -43,7 +43,7 @@
 [📖 Eduzer - Finance](https://apps.apple.com/us/app/eduzer/id1589962501)
 
 ## 👨🏻‍💻 Laptop in use
-<img src="https://img.shields.io/badge/Apple-MacBook_Pro_2024-333333?style=for-the-badge&logo=apple&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Apple-MacBook_Pro_2024 M4 Max-333333?style=for-the-badge&logo=apple&logoColor=white"/> 
 
 ## 💳 Github Profile Summary Card
 <p align="center">
